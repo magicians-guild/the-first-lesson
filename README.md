@@ -1,4 +1,4 @@
 # the-first-lesson
 
 - Simon
-Amy Rodriguez 
+- Amy Rodriguez 
