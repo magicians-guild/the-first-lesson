@@ -2,3 +2,5 @@
 
 - Simon
 - Amy Rodriguez 
+- Marek Soukal
+
