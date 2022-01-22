@@ -4,4 +4,5 @@
 - Amy Rodriguez 
 - Marek Soukal
 - Linda Obregon
+- first time coding
 
