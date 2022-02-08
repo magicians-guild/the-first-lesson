@@ -1,8 +1,3 @@
-body {background-color: blueviolet;}
-#screen {height: 40px; width: 200px; 
-#mainbody {margin-top: 10%; 
-    width: 500px;
-    border: solid;
-border-radius: 20px;}
-
-.buttons {border: silver; height: 20px; length: 20px}
+<body> 
+box {
+width: 100px ; line-height: inherit;}
